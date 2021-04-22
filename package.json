@@ -1,0 +1,11 @@
+{
+  "name": "cryptoprice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cryptoprice.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "josehdez96",
+  "license": "ISC"
+}
